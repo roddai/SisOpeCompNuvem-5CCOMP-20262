@@ -13,7 +13,7 @@ Este é o repositório da disciplina **Sistemas Operacionais e Computação em N
 ## 📂 Estrutura do projeto
 
 ## 🔗 Link do repositório original do professor
-([https://github.com/roddai/Programacao-Dispositivos-Moveis-3CCOMP-20261](https://github.com/roddai/SisOpeCompNuvem-5CCOMP-20262.git))
+([https://github.com/roddai/Programacao-Dispositivos-Moveis-3CCOMP-20262](https://github.com/roddai/SisOpeCompNuvem-5CCOMP-20262.git))
 
 ## 📷 Screenshot
 
