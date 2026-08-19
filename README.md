@@ -4,7 +4,7 @@ Este é o repositório da disciplina **Sistemas Operacionais e Computação em N
 
 ## 👨‍💻 Desenvolvedor
 - Nome: RODRIGO DA ROSA
-- RA: xxxxxxxxxxxxxxxxxxxx
+- RA: 123456789
 - Curso: CCOMP – 5º Semestre
 
 ## 📅 Data
