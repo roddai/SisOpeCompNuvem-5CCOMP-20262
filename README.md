@@ -3,7 +3,7 @@
 Este é o repositório da disciplina **Sistemas Operacionais e Computação em Nuvem**.
 
 ## 👨‍💻 Desenvolvedor
-- Nome: RODRIGO DA ROSA
+- Nome: Rafael Moraes Marques
 - RA: xxxxxxxxxxxxxxxxxxxx
 - Curso: CCOMP – 5º Semestre
 
