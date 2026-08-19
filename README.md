@@ -3,8 +3,8 @@
 Este é o repositório da disciplina **Sistemas Operacionais e Computação em Nuvem**.
 
 ## 👨‍💻 Desenvolvedor
-- Nome: RODRIGO DA ROSA
-- RA: xxxxxxxxxxxxxxxxxxxx
+- Nome: Bruno Souza Lima
+- RA: 24026560
 - Curso: CCOMP – 5º Semestre
 
 ## 📅 Data
