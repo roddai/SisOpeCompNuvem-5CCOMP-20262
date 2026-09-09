@@ -3,8 +3,8 @@
 Este é o repositório da disciplina **Sistemas Operacionais e Computação em Nuvem**.
 
 ## 👨‍💻 Desenvolvedor
-- Nome: RODRIGO DA ROSA
-- RA: xxxxxxxxxxxxxxxxxxxx
+- Nome: Thiffany Morais vieira da silva
+- RA: 24026974
 - Curso: CCOMP – 5º Semestre
 
 ## 📅 Data
