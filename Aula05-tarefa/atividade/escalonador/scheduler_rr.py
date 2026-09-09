@@ -5,7 +5,9 @@ from collections import deque
 processes = [
     ["P1", 5],
     ["P2", 3],
-    ["P3", 7]
+    ["P3", 7],
+    ["P4", 10],
+    ["P5, 2]
 ]
 
 quantum = 2
