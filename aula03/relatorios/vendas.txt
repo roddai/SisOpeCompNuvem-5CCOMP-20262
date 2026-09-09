@@ -1,0 +1,3 @@
+Produto A - 150 unidades
+Produto B - 80 unidades
+Produto C - 200 unidades
